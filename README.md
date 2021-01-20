@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanveer J.</h1>
-<h3 align="center">PhD Computer Science student at FAU and part-time Front-End Developer</h3>
+<h3 align="center">PhD Computer Science and part-time Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjan90&label=Profile%20views&color=0e75b6&style=flat" alt="tjan90" /> </p>
 
